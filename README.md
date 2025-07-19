@@ -81,4 +81,3 @@
 <p align="center">
   <b>“Turning code into solutions — one ML project at a time.”</b> 💡
 </p>
-](https://github.com/ansh-gupta-ag/ansh-gupta-ag/tree/main)
